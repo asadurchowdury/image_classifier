@@ -1,0 +1,35 @@
+<annotation>
+    <folder>DLN Data</folder>
+    <filename>Image__2021-05-25__12-48-12.png</filename>
+    <size>
+        <width>1500</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>box top</name>
+        <rotated_box>
+            <cx>1239</cx>
+            <cy>272</cy>
+            <width>251</width>
+            <height>348</height>
+            <rot>6.235223</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1113</x1>
+            <y1>445</y1>
+            <x2>1364</x2>
+            <y2>445</y2>
+            <x3>1364</x3>
+            <y3>98</y3>
+            <x4>1113</x4>
+            <y4>98</y4>
+        </polygon>
+        <bndbox>
+            <xmin>1113</xmin>
+            <ymin>98</ymin>
+            <xmax>1364</xmax>
+            <ymax>445</ymax>
+        </bndbox>
+    </object>
+</annotation>
